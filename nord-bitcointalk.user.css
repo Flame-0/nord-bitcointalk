@@ -418,7 +418,8 @@ div#bodyarea .mirrortab_active_first {
 }
 div#bodyarea .maintab_active_back,
 div#bodyarea .mirrortab_active_back {
-    background: url(images/catbg.jpg) #88A6C0 repeat-x;
+    background: none;
+    background-color: #2e3440;
 }
 div#bodyarea .maintab_active_last,
 div#bodyarea .mirrortab_active_last {
@@ -577,7 +578,8 @@ img.userimg {
     max-width: 100%
 }
 .trustscore {
-    white-space: nowrap
+    white-space: nowrap;
+    color: #eceff4 !important;
 }
 .nohover:hover {
     text-decoration: none
@@ -590,7 +592,7 @@ a.ul[href^="http://bitcointalk.org/"]:hover {
     color: #a3be8c !important
 }
 img.unloaded[alt=""] {
-    background-image: url("/Themes/throb.gif");
+    background-image: url("https://bitcointalk.org/Themes/throb.gif");
     background-repeat: no-repeat;
     min-width: 8px;
     min-height: 8px;
