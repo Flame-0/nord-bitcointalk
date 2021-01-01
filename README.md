@@ -2,6 +2,8 @@
 
 Based on [Nord](https://www.nordtheme.com/). An arctic, north-bluish color palette.
 
+[Bitcointalk Thread](https://bitcointalk.org/index.php?topic=5304750.0)
+
 [Preview](#preview)
 
 [Installation](#installation)
