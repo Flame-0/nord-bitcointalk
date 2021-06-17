@@ -22,5 +22,5 @@ Based on [Nord](https://www.nordtheme.com/). An arctic, north-bluish color palet
 
 ## Installation
 
-1. Install [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/) or [Cascadea for Safari](https://cascadea.app/).
-2. Install [nord-bitcointalk.user.css](https://raw.githubusercontent.com/Flame-0/nord-bitcointalk/main/nord-bitcointalk.user.css) or [userstyles.org](https://userstyles.org/styles/195028/nord-bitcointalk)
+1. Install [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/), or [Cascadea for Safari](https://cascadea.app/).
+2. Install [nord-bitcointalk.user.css](https://raw.githubusercontent.com/Flame-0/nord-bitcointalk/main/nord-bitcointalk.user.css), [userstyles.org](https://userstyles.org/styles/195028/nord-bitcointalk), or [uso.kkx.one](https://uso.kkx.one/style/195028).
